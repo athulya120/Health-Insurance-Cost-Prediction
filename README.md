@@ -14,15 +14,18 @@ The goal of this project is to build a **Machine Learning regression model** tha
 
 ## 📊 Dataset
 The dataset contains the following features:
+- Id
 - Age
 - Gender
 - BMI
 - Blood Pressure
 - Diabetic Status
 - Number of Children
+- Region
+- Smoking Status
 
 Target variable:
-- **Insurance Cost**
+- **Claim**
 
 ---
 
@@ -33,7 +36,7 @@ Target variable:
 - Scikit-learn
 - Streamlit
 - Jupyter Notebook
-
+- Joblib
 ---
 
 ## 🔍 Project Workflow
